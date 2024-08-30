@@ -1,0 +1,20 @@
+/*ui=user input*/
+.ui{
+    background-color: black; 
+    border-top:none; 
+    border-left:none; 
+    border-right:none; 
+    border-bottom-width: 1px;
+    margin-top: 7%;
+}
+
+
+::placeholder {
+    color:rgb(212, 210, 210);
+    opacity: 1; /* Firefox */
+  }
+
+.submit:hover{
+    background-color: black;
+    color: white;
+}
